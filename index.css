@@ -1,3 +1,7 @@
 #example{
     text-align: center;
 }
+#hot-display-license-info {
+    visibility: hidden;
+    display: none;
+  }
